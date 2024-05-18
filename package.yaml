@@ -23,6 +23,12 @@ dependencies:
 - base >= 4.7 && < 5
 - bytestring
 - yesod
+- text
+- blaze-html
+- blaze-builder
+- http-types
+- shakespeare
+
 ghc-options:
 - -Wall
 - -Wcompat
